@@ -25,5 +25,6 @@ Bem-vindo ao meu repositório! Sou um desenvolvedor apaixonado por programação
 
 Você pode me encontrar nas redes sociais e saber mais sobre meu trabalho e projetos em meu [LinkedIn](https://www.linkedin.com/in/victor-santana-81a87b245/).
 
-Sinta-se à vontade para explorar o repositório, fazer perguntas ou contribuir para o projeto. Estou sempre aberto a feedback e colaborações
-                                                                                      ![kirby](kirby.gif)
+Sinta-se à vontade para explorar o repositório, fazer perguntas ou contribuir para o projeto. Estou sempre aberto a feedback e colaborações.
+
+![kirby](kirby.gif)
