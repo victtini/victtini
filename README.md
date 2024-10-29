@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório! Sou um desenvolvedor apaixonado por programação e desenvolvimento de jogos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na Etec de Embu e trabalhando no meu projeto de TCC, **Floral Anomaly**, um RPG roguelike desenvolvido na Unity.
 
-![victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victtini&show_icons=true&theme=radical)
 
 ## Minhas Habilidades
 
